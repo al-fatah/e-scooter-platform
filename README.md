@@ -1,10 +1,10 @@
-# 🛴 E-Scooter Platform PoC
+# E-Scooter Platform Project
 
 This project is a proof-of-concept (PoC) for a scalable, extensible, and maintainable e-scooter sharing platform designed for multi-country deployments. It demonstrates microservices architecture, cloud-native tooling, and real-time ride operations.
 
 ---
 
-## 📌 Project Objectives
+## Project Objectives
 
 - Validate a cloud-native, modular architecture
 - Simulate core ride and payment workflows
@@ -13,7 +13,7 @@ This project is a proof-of-concept (PoC) for a scalable, extensible, and maintai
 
 ---
 
-## 🧱 Architecture Overview
+## Architecture Overview
 
 - **Frontend:** React Native (Mobile App), React.js (Admin Dashboard)
 - **Backend:** Microservices (Node.js or Python), REST APIs, JWT Auth
@@ -22,7 +22,7 @@ This project is a proof-of-concept (PoC) for a scalable, extensible, and maintai
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 | Layer         | Technology                    |
 |---------------|-------------------------------|
@@ -37,7 +37,7 @@ This project is a proof-of-concept (PoC) for a scalable, extensible, and maintai
 
 ---
 
-## 📂 Folder Structure
+## Folder Structure
 
 ```bash
 e-scooter-platform-poc/
